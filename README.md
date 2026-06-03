@@ -4,7 +4,8 @@ A fully connected neural network built using **only NumPy and math** — no Tens
 
 > Built following [Samson Zhang's tutorial](https://youtu.be/w8yWXqWQYmU) on YouTube.
 
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/bluesky827/notebook21a4111513)
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]
+(https://www.kaggle.com/code/bluesky827/mnist-digit-recognizer)
 
 ---
 
