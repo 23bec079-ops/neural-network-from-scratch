@@ -114,18 +114,21 @@ python neural_network.py
 ## 📊 Training Output
 
 ```
-Epoch    0 | Loss: 0.1825
-Epoch   50 | Loss: 0.0805
-Epoch  100 | Loss: 0.0561
-Epoch  150 | Loss: 0.0467
-Epoch  200 | Loss: 0.0416
-Epoch  250 | Loss: 0.0383
-Epoch  300 | Loss: 0.0359
-Epoch  350 | Loss: 0.0340
-Epoch  400 | Loss: 0.0326
-Epoch  450 | Loss: 0.0313
+Epoch    0 | Loss: 2.6409 | Val Acc: 16.61%
+Epoch   50 | Loss: 0.6763 | Val Acc: 83.43%
+Epoch  100 | Loss: 0.4865 | Val Acc: 86.98%
+Epoch  150 | Loss: 0.4174 | Val Acc: 88.46%
+Epoch  200 | Loss: 0.3793 | Val Acc: 89.20%
+Epoch  250 | Loss: 0.3541 | Val Acc: 89.72%
+Epoch  300 | Loss: 0.3354 | Val Acc: 90.16%
+Epoch  350 | Loss: 0.3206 | Val Acc: 90.60%
+Epoch  400 | Loss: 0.3082 | Val Acc: 90.92%
+Epoch  450 | Loss: 0.2976 | Val Acc: 91.16%
 
-Final Training Accuracy: 91.83%
+Final Training Accuracy: 91.82%
+
+Test Accuracy: 92.29%
+
 ```
 
 ---
